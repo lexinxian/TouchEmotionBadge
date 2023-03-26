@@ -1,4 +1,1 @@
-<xml xmlns="http://www.w3.org/1999/xhtml">
-  <block type="pxt-on-start"></block>
-  <block type="device_forever"></block>
-</xml>
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="input_logo_event" id="t8Gwc65NU4OjYymuudf5" x="289" y="26"><field name="action">TouchButtonEvent.Pressed</field><statement name="HANDLER"><block type="basic_show_icon" id="kRdmA{f5EnoBF1I.g:M*"><field name="i">IconNames.Surprised</field></block></statement></block><block type="device_button_event" id="O=-_;neNt^?L0C[SWEpq" x="-11" y="44"><field name="NAME">Button.A</field><statement name="HANDLER"><block type="basic_show_icon" id="!^Dfk-_di~)tdQeV2VH*"><field name="i">IconNames.Happy</field></block></statement></block><block type="device_button_event" id="L.|)t=L!c{PFR@D_b[@m" x="-10" y="217"><field name="NAME">Button.B</field><statement name="HANDLER"><block type="basic_show_icon" id="`jKp]R6]dMhr0sD8FUj{"><field name="i">IconNames.Sad</field></block></statement></block></xml>
